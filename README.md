@@ -1,2 +1,3 @@
 # azure-resources-learning-paths
-Azure Resources and Learning Paths
+
+# Download the PDF for Azure Resources and Learning Paths
